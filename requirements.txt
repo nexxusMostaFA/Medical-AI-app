@@ -1,12 +1,15 @@
-streamlit 
-pymongo 
-torch 
-transformers 
-Pillow 
-opencv-python 
-requests 
-numpy 
+streamlit
+pymongo
+transformers
+torch
+tensorflow
+keras
+opencv-python
+Pillow
+numpy
+scipy
+requests
+wfdb
+scikit-learn
+torchvision
 
-
-
-                        
