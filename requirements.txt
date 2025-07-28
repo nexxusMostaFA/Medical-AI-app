@@ -4,7 +4,7 @@ transformers
 torch
 tensorflow
 keras
-opencv-python
+opencv-python-headless
 Pillow
 numpy
 scipy
@@ -12,4 +12,3 @@ requests
 wfdb
 scikit-learn
 torchvision
-
